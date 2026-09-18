@@ -1,17 +1,17 @@
-version: 0.2.2
+version: 0.2.3
 files:
-  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.2/Notula-Collect-macOS-arm64.zip
-    sha512: 6u2Xr9PXB3X3tnLy5TQFCWG94kHe8wZubz+0G/h6iSDHmWFHxsoGlmHCcCQayVTjwPv0H/bqXsJduUaNepauzg==
-    size: 186481169
-  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.2/Notula-Collect-macOS-arm64.dmg
-    sha512: eBIJFjYbAiuiynfLn/2nNLAsRx8EKgkh/my0cHos59T0bfa8SrW1fytVUCQV6UCaVgubEE92ReBfULyoBvK7BA==
-    size: 185151422
-  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.2/Notula-Collect-macOS-x64.zip
-    sha512: jX9T0sm6LKrnYwOo7SAv+aGZOc/2Rbg+K/IfyMbhB3pjPR7RC4iKf2sKzbZ3hF8oD2bC7GUoj8/u1W4Ta+9VfQ==
-    size: 191637709
-  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.2/Notula-Collect-macOS-x64.dmg
-    sha512: w/vwKFqxn6HUAbLGndt3V3wV489MinuGPDWS0DeNrRBwAYRGmzxkinfH3yji4VbMC+WRtz1/MdnIK9WwA8orkA==
-    size: 190273703
-path: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.2/Notula-Collect-macOS-arm64.zip
-sha512: 6u2Xr9PXB3X3tnLy5TQFCWG94kHe8wZubz+0G/h6iSDHmWFHxsoGlmHCcCQayVTjwPv0H/bqXsJduUaNepauzg==
-releaseDate: '2026-09-17T12:07:52.134Z'
+  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.3/Notula-Collect-macOS-arm64.zip
+    sha512: tiRDZaZFC20P0l630IDoGuiW6KkqVh1alzVdU4Z1b6vTF8n8BYya5NfwsC3Rdz1XxLidijRdVWnhV7c6Up3dHw==
+    size: 189399617
+  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.3/Notula-Collect-macOS-arm64.dmg
+    sha512: vGkiiLhQFErqDVZgBqiyKkWgKyzR06i1S9j8HGC9CC/xhLbrRA+dhWIufH6QvmIo6utjN3T7ZAF2TXg9G80gCA==
+    size: 188120699
+  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.3/Notula-Collect-macOS-x64.zip
+    sha512: VwfQMI6Hadkxj+HmL6pO6Vqek75PMayhsAsBs1MqBGd4r8ssA/qf1eFr2jtC0t9kxtnktMv8lfskQIpnP4rRYA==
+    size: 195008669
+  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.3/Notula-Collect-macOS-x64.dmg
+    sha512: V0IwqfphGEZZeD5bngf/vOynaxv4McGFTzarKL3QunV8LC1584GxbJvX8d+IH5RmJGw1V+WfeIO/i11WJVBJYA==
+    size: 193665774
+path: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.3/Notula-Collect-macOS-arm64.zip
+sha512: tiRDZaZFC20P0l630IDoGuiW6KkqVh1alzVdU4Z1b6vTF8n8BYya5NfwsC3Rdz1XxLidijRdVWnhV7c6Up3dHw==
+releaseDate: '2026-09-18T08:29:02.573Z'
