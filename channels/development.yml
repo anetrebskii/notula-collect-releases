@@ -1,8 +1,8 @@
-version: 0.2.7
+version: 0.2.8
 files:
-  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.7/Notula-Collect-Windows-x64.exe
-    sha512: 9fd53FT1L0G9qI1/QjnO3Uo+fKcXkKIxcEJWXkVUUqzI2KO5lT2cHTpTIWNx06xYJpXaJBI25bzl2XuIuqhPLA==
-    size: 162895112
-path: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.7/Notula-Collect-Windows-x64.exe
-sha512: 9fd53FT1L0G9qI1/QjnO3Uo+fKcXkKIxcEJWXkVUUqzI2KO5lT2cHTpTIWNx06xYJpXaJBI25bzl2XuIuqhPLA==
-releaseDate: '2026-10-27T11:40:27.184Z'
+  - url: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.8/Notula-Collect-Windows-x64.exe
+    sha512: gMHLlOXfzRwAgMvNXf08Vvp8PP3/GkNFGSBZwfgSjV1DKHzvezozctK4NybiCQAymRHU6UBtCCn32pVph/ZLgw==
+    size: 164281230
+path: https://github.com/anetrebskii/notula-collect-releases/releases/download/v0.2.8/Notula-Collect-Windows-x64.exe
+sha512: gMHLlOXfzRwAgMvNXf08Vvp8PP3/GkNFGSBZwfgSjV1DKHzvezozctK4NybiCQAymRHU6UBtCCn32pVph/ZLgw==
+releaseDate: '2026-11-23T13:40:55.131Z'
